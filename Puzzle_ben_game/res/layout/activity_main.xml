@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:text="欢迎来猜迷"
         android:textSize="40dp"
+        android:paddingTop="50dp"
         android:layout_gravity="center"
         />
     
